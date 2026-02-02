@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Since 2003<br>📚 Studing at ISEL, School of Engineering<br>📚 2o year of  Computer and Multimedia Engineering<br>🎲 Fun fact: can't center a div</p>
+<p align="left">✨ Since 2003<br>📚 Studing at ISEL, School of Engineering<br>📚 3th year of  Computer and Multimedia Engineering<br>🎲 Fun fact: can't center a div</p>
 
 ###
 
