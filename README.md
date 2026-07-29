@@ -97,18 +97,16 @@ You can explore several of my pinned repositories on my profile. Among my person
 - <a href="#"><b>BaseLift</b></a>: Native Android workout tracking and nutrition application built with Kotlin, MVVM architecture, Room database offline persistence, and StateFlow.
 </p>
 
-###
-
 <h2 align="left">Connect with me</h2>
 
 ###
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-gra%C3%A7a-b58299330/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo" align="center" /> LinkedIn Profile
   </a>
-  <img width="12" />
+  <br><br>
   <a href="mailto:guilhermegraca2012@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="25" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="20" alt="gmail logo" align="center" /> guilhermegraca2012@gmail.com
   </a>
 </p>
