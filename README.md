@@ -3,11 +3,13 @@
 ###
 
 <p align="left">
-  My name is Guilherme Graça, I'm 23 years old (born in 2003), and I recently graduated with a BSc in Computer and Multimedia Engineering from ISEL (Lisbon, Portugal). I love building software and working across multiple domains, including Full-Stack Web, Native Mobile, Distributed Systems, UI/UX, and AI/ML.
+  My name is Guilherme Graça, I'm 23 years old (born in 2003), and I recently graduated with a BSc in Computer and Multimedia Engineering from ISEL (Lisbon, Portugal). 
+  
+  I love building software and working across multiple domains, including Full-Stack Web, Native Mobile, Distributed Systems, UI/UX, and AI/ML.
   <br><br>
   My primary tech stack focuses on <b>Java, Python, Kotlin</b>, and <b>Web Development (HTML, CSS, JavaScript)</b>. However, I'm always eager to learn new things and have hands-on experience with a broad range of frameworks, databases, and dev tools as you can check out some of them in the icons below!.
   <br><br>
-  Feel free to explore my pinned repositories to see what I've been working on. A couple of my personal favorites are <a href="#"><b>Circuitos Oceânicos</b></a>, a full-stack SPA designed to modernize a legacy backend architecture for historical data, and <a href="#"><b>BaseLift</b></a>, a native Android workout and nutrition app built with Kotlin, MVVM, Room, and StateFlow.
+  Feel free to explore my pinned repositories. A couple of my personal favorites are <a href="#"><b>Circuitos Oceânicos</b></a>, a full-stack SPA designed to modernize a legacy backend architecture for historical data, and <a href="#"><b>BaseLift</b></a>, a native Android workout and nutrition app built with Kotlin.
 </p>
 
 ###
@@ -64,6 +66,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="30" alt="swagger logo" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="30" alt="jetpack compose logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   <img width="8" />
 </div>
 
