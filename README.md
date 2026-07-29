@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!</h1>
+<h1 align="left">Hello World!👋 What's Up?</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 <p align="left">
 - Born in 2003 (23 years old)<br>
 - Graduated from ISEL - Lisbon Superior Institute of Engineering<br>
-- BSc in Computer and Multimedia Engineering (Final Grade: 15/20)<br>
+- BSc in Computer and Multimedia Engineering<br>
 - Work across multiple domains: Full-Stack Web, Native Mobile, Distributed Systems, UI/UX & AI/ML
 </p>
 
