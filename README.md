@@ -67,10 +67,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="30" alt="swagger logo" />
-  <img width="8" />
   <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" height="30" alt="jetpack compose logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
