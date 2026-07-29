@@ -2,30 +2,12 @@
 
 ###
 
-<p align="left">My name is Guilherme Graça and I am a Computer and Multimedia Engineer graduated from ISEL (Lisbon, Portugal).</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">
-- Born in 2003 (23 years old)<br>
-- Graduated from ISEL - Lisbon Superior Institute of Engineering<br>
-- BSc in Computer and Multimedia Engineering<br>
-- Work across multiple domains: Full-Stack Web, Native Mobile, Distributed Systems, UI/UX & AI/ML
-</p>
-
-###
-
-<h2 align="left">Main Stack & Experience</h2>
-
-###
-
-<p align="left">
-My primary tech stack focuses on <b>Java, Python, Kotlin</b>, and <b>Web Development (HTML, CSS, JavaScript)</b>.<br>
-In addition to my core stack, I have hands-on project experience with a broad range of frameworks, databases, and development tools featured below.
+  My name is Guilherme Graça, I'm 23 years old (born in 2003), and I recently graduated with a BSc in Computer and Multimedia Engineering from ISEL (Lisbon, Portugal). I love building software and working across multiple domains, including Full-Stack Web, Native Mobile, Distributed Systems, UI/UX, and AI/ML.
+  <br><br>
+  My primary tech stack focuses on <b>Java, Python, Kotlin</b>, and <b>Web Development (HTML, CSS, JavaScript)</b>. However, I'm always eager to learn new things and have hands-on experience with a broad range of frameworks, databases, and dev tools as you can check out some of them in the icons below!.
+  <br><br>
+  Feel free to explore my pinned repositories to see what I've been working on. A couple of my personal favorites are <a href="#"><b>Circuitos Oceânicos</b></a>, a full-stack SPA designed to modernize a legacy backend architecture for historical data, and <a href="#"><b>BaseLift</b></a>, a native Android workout and nutrition app built with Kotlin, MVVM, Room, and StateFlow.
 </p>
 
 ###
@@ -86,16 +68,6 @@ In addition to my core stack, I have hands-on project experience with a broad ra
 </div>
 
 ###
-
-<h2 align="left">Projects & Portfolio</h2>
-
-###
-
-<p align="left">
-You can explore several of my pinned repositories on my profile. Among my personal favorites are:<br><br>
-- <a href="#"><b>Circuitos Oceânicos</b></a>: Full-stack Single-Page Application (SPA) designed to modernize a legacy backend architecture and enable public access to historical data.<br>
-- <a href="#"><b>BaseLift</b></a>: Native Android workout tracking and nutrition application built with Kotlin, MVVM architecture, Room database offline persistence, and StateFlow.
-</p>
 
 <h2 align="left">Connect with me</h2>
 
