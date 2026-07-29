@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!👋</h1>
+<h1 align="left">Hello World!</h1>
 
 ###
 
@@ -15,6 +15,17 @@
 - Graduated from ISEL - Lisbon Superior Institute of Engineering<br>
 - BSc in Computer and Multimedia Engineering (Final Grade: 15/20)<br>
 - Work across multiple domains: Full-Stack Web, Native Mobile, Distributed Systems, UI/UX & AI/ML
+</p>
+
+###
+
+<h2 align="left">Main Stack & Experience</h2>
+
+###
+
+<p align="left">
+My primary tech stack focuses on <b>Java, Python, Kotlin</b>, and <b>Web Development (HTML, CSS, JavaScript)</b>.<br>
+In addition to my core stack, I have hands-on project experience with a broad range of frameworks, databases, and development tools featured below.
 </p>
 
 ###
@@ -69,9 +80,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="8" />
 </div>
+
+###
+
+<h2 align="left">Projects & Portfolio</h2>
+
+###
+
+<p align="left">
+You can explore several of my pinned repositories on my profile. Among my personal favorites are:<br><br>
+- <a href="#"><b>Circuitos Oceânicos</b></a>: Full-stack Single-Page Application (SPA) designed to modernize a legacy backend architecture and enable public access to historical data.<br>
+- <a href="#"><b>BaseLift</b></a>: Native Android workout tracking and nutrition application built with Kotlin, MVVM architecture, Room database offline persistence, and StateFlow.
+</p>
 
 ###
 
