@@ -104,5 +104,11 @@ You can explore several of my pinned repositories on my profile. Among my person
 ###
 
 <p align="left">
-<a href="https://www.linkedin.com/in/guilherme-gra%C3%A7a-b58299330/">LinkedIn Profile</a> | guilhermegraca2012@gmail.com
+  <a href="https://www.linkedin.com/in/guilherme-gra%C3%A7a-b58299330/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  <a href="mailto:guilhermegraca2012@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="25" alt="gmail logo" />
+  </a>
 </p>
