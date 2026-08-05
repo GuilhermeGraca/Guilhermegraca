@@ -9,7 +9,8 @@
   <br><br>
   My primary tech stack focuses on <b>Java, Python, Kotlin</b>, and <b>Web Development (HTML, CSS, JavaScript)</b>. However, I'm always eager to learn new things and have hands-on experience with a broad range of frameworks, databases, and dev tools as you can check out some of them in the icons below!.
   <br><br>
-  Feel free to explore my repositories. A couple of my personal favorites are <a href="[#](https://github.com/GuilhermeGraca/circuitos-oceanicos-spa)"><b>Circuitos Oceânicos</b></a>, a full-stack SPA designed to modernize a legacy backend architecture for historical data, and <a href="[#](https://github.com/GuilhermeGraca/baselift-android)"><b>BaseLift</b></a>, a native Android workout and nutrition app built with Kotlin.
+Feel free to explore my repositories. A couple of my personal favorites are <a href="https://github.com/GuilhermeGraca/circuitos-oceanicos-spa"><b>Circuitos Oceânicos</b></a>, a full-stack SPA designed to modernize a legacy backend architecture for historical data, and <a href="https://github.com/GuilhermeGraca/baselift-android"><b>BaseLift</b></a>, a native Android workout and nutrition app built with Kotlin.
+
 </p>
 
 ###
