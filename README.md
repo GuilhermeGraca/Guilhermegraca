@@ -86,8 +86,9 @@ Feel free to explore my repositories. A couple of my personal favorites are <a h
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-gra%C3%A7a-b58299330/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo" align="center" /> LinkedIn Profile
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo" align="center" /> LinkedIn Profile 
   </a>
+  <sub><em>*Profile is currently unavailable*</em></sub>
   <br><br>
   <a href="mailto:guilhermegraca2012@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="20" alt="gmail logo" align="center" /> guilhermegraca2012@gmail.com
